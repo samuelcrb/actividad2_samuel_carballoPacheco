@@ -1,0 +1,22 @@
+<tweet>
+	<usuario>
+		<nombre>Mariano Rajoy Brey</nombre>
+		<nombreDeUsuario>@m.rajoy</nombreDeUsuario>
+		<correo> marianorajoy@hotmail.com </correo>
+		<foto src="imagenes/foto.jpg" titulo="foto"></foto>
+	</usuario>
+	<contenido> "Cuanto peor mejor para todos y cuanto peor para todos mejor, mejor para mí el suyo beneficio político" </contenido>
+	<retweets> 278 </retweets>
+	<meGusta> 1500 </meGusta>
+	<comentarios>
+		<comentario> 
+			<usuario>@pabloiglesias</usuario>
+			<fecha>15/11/2017</fecha>
+			<contenido>"El Partido Popular se financia con dinero negro, Mariano"</contenido>
+		</comentario>
+		<comentario> Mariano dimisión!! </comentario>
+		<comentario> El mejor presi, vuelve Mariano! </comentario>
+	</comentarios>
+	
+
+</tweet>
